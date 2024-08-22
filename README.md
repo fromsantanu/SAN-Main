@@ -1,4 +1,4 @@
-# Sales Analysis Topics
+# Sales Analysis Topics ![Static Badge](https://img.shields.io/badge/Work%20In%20Progress-008000)  
 
 1. **Introduction to Sales Analysis**
    - [Definition and importance of sales analysis.](*)
